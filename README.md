@@ -102,7 +102,6 @@ npx react-native run-ios
 
 - Ensure your emulator or device is connected before running the app.  
 - For iOS, make sure Xcode and CocoaPods are properly configured.  
-- Use a `.env` file for managing API keys and secrets securely.  
 
 ---
 
